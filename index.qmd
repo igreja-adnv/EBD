@@ -1,5 +1,5 @@
 ---
-title: "Works"
+title: "Escola dominical que alcança VIDAS"
 ---
 
 This is a Quarto website.

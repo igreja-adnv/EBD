@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
-  title: "Works"
+  title: "Escola dominical que alcança VIDAS"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: Início
       - about.qmd
 
 format:
